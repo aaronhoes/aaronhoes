@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaronhoes.
-- 👀 I’m interested in version control systems.
+- 👀 I’m interested in source control management.
 - 🌱 I’m currently learning GitHub.
 
 <!---
